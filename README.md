@@ -1,4 +1,4 @@
-# Facial expression classification with k210
+# Facial expression classification with k210 (using MobileNet)
 Facial expression classification using the k210 processor and MobileNet
 
 ## Description of the files
