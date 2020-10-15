@@ -1,0 +1,20 @@
+{
+  "version": "0.1.0",
+  "files": [
+    {
+      "address": 0,
+      "bin": "maixpy_v0.5.1_106_g6d66d6e_minimum_with_kmodel_v4_support.bin",
+      "sha256Prefix": true
+    },
+    {
+      "address": 0x300000,
+      "bin": "facedetect.kmodel",
+      "sha256Prefix": false
+    },
+    {
+      "address": 0x500000,
+      "bin": "2_emotions.kmodel",
+      "sha256Prefix": false
+    }
+  ]
+}
